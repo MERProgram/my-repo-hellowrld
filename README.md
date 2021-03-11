@@ -1,2 +1,3 @@
 # my-repo-hellowrld
 Getting started with git as a scientist (OHI)
+Following along the ohi-science.org git chapter. Let's see how this saves...
